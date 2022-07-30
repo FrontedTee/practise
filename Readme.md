@@ -1,1 +1,6 @@
-# Moov \_\_ A Library of ready made animations
+## Moov
+
+** A library that allows beginners perform basic web animations using normal language
+**
+
+## Documentation
